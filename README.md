@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jaydeb! 👋
 
-<!--
-**Joy-creator007/Joy-creator007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated aspiring Data Analyst with expertise in converting data into actionable insights.
 
-Here are some ideas to get you started:
+## Tech Stack 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![Tableau](https://img.shields.io/badge/-Tableau-lightgrey)
+![PowerBI](https://img.shields.io/badge/-PowerBI-orange)
+![Python](https://img.shields.io/badge/-Python-green)
+
+## Featured Projects 📊
+
+* ### [Supply Chain Optimization (SQL)](YOUR-SQL-REPO-LINK-HERE)
+    * Advanced SQL analysis and database design.
+* ### [Regional Sales Performance (Tableau)](YOUR-TABLEAU-REPO-LINK-HERE)
+    * Interactive Tableau visualization.
+
+## Let's Connect! 🤝
+
+[LinkedIn](YOUR-LINKEDIN-URL) | [Email](mailto:jaydeb.analyst@email.com)
