@@ -8,14 +8,17 @@ I am a highly motivated aspiring Data Analyst with expertise in converting data 
 ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-orange)
 ![Python](https://img.shields.io/badge/-Python-green)
+![Excel](https://img.shields.io/badge/-Excel-darkgreen)
 
 ## Featured Projects 📊
 
-* ### [Supply Chain Optimization (SQL)](YOUR-SQL-REPO-LINK-HERE)
-    * Advanced SQL analysis and database design.
-* ### [Regional Sales Performance (Tableau)](YOUR-TABLEAU-REPO-LINK-HERE)
+* ### [Sales Performance Dashboard (Tableau)](https://github.com/Joy-creator007/Sales-Performance-Dashboard-Tableau-)
     * Interactive Tableau visualization.
+* ### [Regional Sales & Customer Insights (Power BI)](https://github.com/Joy-creator007/Regional-Sales-Customer-Insights-Power-BI-)
+    * Comprehensive sales data and regional analysis.
+* ### [Supply Chain Optimization Analysis (SQL)](https://github.com/Joy-creator007/Supply-Chain-Optimization-Analysis-SQL-)
+    * Advanced SQL analysis and database design.
 
 ## Let's Connect! 🤝
 
-[LinkedIn](YOUR-LINKEDIN-URL) | [Email](mailto:jaydeb.analyst@email.com)
+[LinkedIn](https://linkedin.com/in/jaydeb01) | [Email](mailto:info.jaydeb@gmail.com)
